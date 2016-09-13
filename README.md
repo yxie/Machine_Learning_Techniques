@@ -10,7 +10,7 @@ Use libsvm library and try different kernels for classification
 Implement adaboost (adaptive boosting) algorithm
 
 ## HW3
-Implement CART (Classification And Regression Tree)
+Implement CART (Classification And Regression Tree) algorithm
 
 ## HW4
 Implement kmeans, k-NN and basic neural network algorithms
